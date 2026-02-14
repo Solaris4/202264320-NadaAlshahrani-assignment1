@@ -2,7 +2,7 @@
 
 ## Assignment 1 - Personal Portfolio Website
 **Student:** Nada Alshahrani  
-**Date:** February 2025
+**Date:** 02/14/2025
 
 ---
 
